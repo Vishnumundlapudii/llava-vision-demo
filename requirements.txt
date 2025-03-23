@@ -1,0 +1,9 @@
+git+https://github.com/huggingface/transformers.git
+streamlit
+torch
+transformers
+accelerate
+bitsandbytes
+pillow
+sentencepiece
+einops
