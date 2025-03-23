@@ -13,7 +13,6 @@ llava-vision-demo/
 ├── Demo.ipynb                   # Jupyter notebook explaining the full pipeline
 ├── requirements.txt             # Required dependencies
 ├── README.md                    # Detailed explanation of the repository
-└── LICENSE                      # MIT License for open usage
 ```
 
 ---
